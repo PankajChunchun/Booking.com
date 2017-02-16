@@ -1,6 +1,6 @@
 # Booking.com
 
-This repository contains my solutions to [Booking.com](http://www.booking.com/)'s coding assignment for the [Software Developer](https://workingatbooking.com/) position. I am sharing this for educational-purposes only. Use at your own risk.
+This repository contains my solution to [Booking.com](http://www.booking.com/)'s coding assignment from Feb. 2016, for the [Software Developer](https://workingatbooking.com/) position. I am sharing this for educational-purposes only. Use at your own risk.
 
 The pre-interview online assignment consists of four problems:
 - [Polygon Identifier](./polygon.md)
