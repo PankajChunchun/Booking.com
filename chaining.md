@@ -14,6 +14,7 @@ works with an arbitrary input. Rather, the interviewers were looking for a one-t
 given input.
 
 ```php
+<?php
 $input = array("Raymond", "Nora", "Daniel", "Louie", "Peter", "Esteban");
 
 function get_first_char($str) {
