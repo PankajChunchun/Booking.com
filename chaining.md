@@ -15,6 +15,7 @@ given input.
 
 ```php
 <?php
+
 $input = array("Raymond", "Nora", "Daniel", "Louie", "Peter", "Esteban");
 
 function get_first_char($str) {
